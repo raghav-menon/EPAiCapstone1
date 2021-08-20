@@ -9,15 +9,15 @@ https://raghavmenon.herokuapp.com/
 
 As mentioned the title of the page is changed to reflect the name. 
 
-### app.py
+#### app.py
 
 This file is the python program which contains instructios of what has to be done when various elements are clicked on the form created.
 
-## temmplates 
+#### templates 
 
 The templates folder contains the various html templates that has to be displayed when elements are clicked on the forms
 
-## static 
+### static 
 
 The static folder contains a folder called images which contains the images that should be displayed, css contains the css files required to style the webpage and 
 js contains the javascript files
